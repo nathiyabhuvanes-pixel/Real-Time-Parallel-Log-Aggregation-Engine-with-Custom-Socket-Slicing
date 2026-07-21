@@ -1,0 +1,16 @@
+S017,Varun,Science,77,Madurai
+S018,Pooja,English,81,Chennai
+S019,Gokul,Maths,66,Trichy
+S020,Aishwarya,Science,93,Erode
+S021,Raj,English,70,Salem
+S022,Shalini,Maths,88,Chennai
+S023,Naveen,Science,64,Madurai
+S024,Ritika,English,79,Trichy
+S025,Kiran,Maths,82,Erode
+S026,Lavanya,Science,89,Chennai
+S027,Dinesh,English,68,Salem
+S028,Pavithra,Maths,91,Madurai
+S029,Surya,Science,75,Chennai
+S030,Rekha,English,86,Trichy
+S031,Murali,Maths,73,Erode
+S032,Saranya,Science,92,Chennai

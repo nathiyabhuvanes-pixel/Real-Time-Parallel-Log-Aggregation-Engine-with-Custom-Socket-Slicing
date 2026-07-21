@@ -1,0 +1,3 @@
+Maths : 17
+English : 16
+Science : 17

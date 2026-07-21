@@ -1,0 +1,16 @@
+S001,Arun,Maths,78,Chennai
+S002,Priya,Science,85,Madurai
+S003,Karthik,English,67,Salem
+S004,Divya,Maths,92,Trichy
+S005,Sanjay,Science,74,Erode
+S006,Nisha,English,88,Chennai
+S007,Vijay,Maths,55,Coimbatore
+S008,Meena,Science,91,Chennai
+S009,Rahul,English,73,Salem
+S010,Anitha,Maths,84,Madurai
+S011,Ajay,Science,69,Chennai
+S012,Deepa,English,95,Trichy
+S013,Manoj,Maths,61,Erode
+S014,Kavya,Science,87,Chennai
+S015,Ramesh,English,72,Coimbatore
+S016,Swathi,Maths,90,Salem
